@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://qeurne.csgad.com/vRM/sitemap.xml.gz
